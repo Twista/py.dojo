@@ -1,0 +1,7 @@
+.idea
+__pycache__/
+report.xml
+.coverage
+htmlcov/
+coverage.xml
+.pytest_cache/
